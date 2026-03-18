@@ -42,12 +42,6 @@ A modern, responsive portfolio website built using **HTML, CSS, JavaScript, PHP,
 ## ⚙️ Setup Guide (Step-by-Step)
 
 ---
-
-### 🔹 1. Clone Repository
-
-```bash
-git clone https://github.com/pratikshalavand98/pratiksha-portfolio.git
-
 **🔹 2. Setup Database (InfinityFree)**
 
 Go to InfinityFree Control Panel
@@ -151,3 +145,5 @@ Aspiring Cloud Architect ☁️
 GitHub: https://github.com/pratikshalavand98
 
 LinkedIn: https://www.linkedin.com/in/pratiksha-lavand-4ba4002a2/
+
+
