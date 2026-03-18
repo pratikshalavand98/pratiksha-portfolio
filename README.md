@@ -6,8 +6,7 @@ A modern, responsive portfolio website built using **HTML, CSS, JavaScript, PHP,
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-portfolio-link.com  
-*(https://pratiksha-portfolio.infinityfreeapp.com/)*
+🔗[ https://your-live-portfolio-link.com  ](https://pratiksha-portfolio.infinityfreeapp.com/)
 
 ---
 
