@@ -1007,4 +1007,4 @@ scrollBtn.addEventListener("click", () => {
 </script>
 
 </body>
-</html> muze ye github ko host karna hai
+</html> 
