@@ -139,9 +139,9 @@ Database credentials
 EmailJS keys
 
 Disable error reporting in production:
-
+```bash
 error_reporting(0);
-
+```
 **👩‍💻 Author**
 
 **Pratiksha Lavand**__
