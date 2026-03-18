@@ -43,7 +43,6 @@ A modern, responsive portfolio website built using **HTML, CSS, JavaScript, PHP,
 
 ---
 ### 🔹 1. Clone Repository
-```bash
 git clone https://github.com/pratikshalavand98/pratiksha-portfolio.git
 
 **🔹 2. Setup Database (InfinityFree)**
