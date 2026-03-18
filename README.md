@@ -43,8 +43,9 @@ A modern, responsive portfolio website built using **HTML, CSS, JavaScript, PHP,
 
 ---
 ### 🔹 1. Clone Repository
+```bash
 git clone https://github.com/pratikshalavand98/pratiksha-portfolio.git
-
+```
 **🔹 2. Setup Database (InfinityFree)**
 
 Go to InfinityFree Control Panel
@@ -56,7 +57,7 @@ Create a new database
 Open phpMyAdmin
 
 Run this SQL:
-
+```bash
 CREATE TABLE contact_form (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
@@ -64,6 +65,7 @@ CREATE TABLE contact_form (
     message TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+```
 **🔹 3. Configure Database Connection**
 
 Update your PHP file:
@@ -96,12 +98,12 @@ Create:
 ✅ Auto Reply Template (for users)
 
 Replace in your code:
-
+```bash
 emailjs.init("YOUR_PUBLIC_KEY");
 
 emailjs.sendForm("YOUR_SERVICE_ID", "ADMIN_TEMPLATE_ID", form);
 emailjs.sendForm("YOUR_SERVICE_ID", "AUTO_REPLY_TEMPLATE_ID", form);
-
+```
 **🔹 5. Upload to InfinityFree**
 
 Open File Manager
@@ -145,8 +147,8 @@ error_reporting(0);
 **Pratiksha Lavand**__
 Aspiring Cloud Architect ☁️
 
-GitHub: https://github.com/pratikshalavand98
+🔗 GitHub: https://github.com/pratikshalavand98
 
-LinkedIn: https://www.linkedin.com/in/pratiksha-lavand-4ba4002a2/
+🔗 LinkedIn: https://www.linkedin.com/in/pratiksha-lavand-4ba4002a2/
 
 
